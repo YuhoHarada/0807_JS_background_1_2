@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightblue;
+}
+
+div{
+    background: #fff;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 50px;
+    
+}
+
+input{
+    width: 100%;
+    padding: 10px 0;
+}
+
+input[type=button]{
+    background: lightgreen;
+    border: none;
+}
